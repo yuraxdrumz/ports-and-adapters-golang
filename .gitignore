@@ -1,0 +1,7 @@
+vendor/
+build
+.todo
+.vscode
+.idea
+go.mod
+go.sum
